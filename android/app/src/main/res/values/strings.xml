@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cocktail-Recipe</string>
+    <string name="title_activity_main">Cocktail-Recipe</string>
+    <string name="package_name">com.Abhirami.CocktailRecipe</string>
+    <string name="custom_url_scheme">com.Abhirami.CocktailRecipe</string>
+</resources>
